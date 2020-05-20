@@ -1,4 +1,5 @@
-[
+{
+    "skillgroupsandskills": [
     {
         "skillGroupId": 1,
         "skillGroupName": "Agility",
@@ -216,3 +217,4 @@
         ]
     }
 ]
+}
