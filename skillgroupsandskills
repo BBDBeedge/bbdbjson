@@ -1,0 +1,488 @@
+[
+    {
+        "skillGroupId": 1,
+        "skillGroupName": "Agility",
+        "skills": [
+            {
+                "skillId": 11,
+                "skillName": "Catch",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 1
+            },
+            {
+                "skillId": 18,
+                "skillName": "Diving Catch",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 1
+            },
+            {
+                "skillId": 19,
+                "skillName": "Diving Tackle",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 1
+            },
+            {
+                "skillId": 20,
+                "skillName": "Dodge",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 1
+            },
+            {
+                "skillId": 33,
+                "skillName": "Jump Up",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 1
+            },
+            {
+                "skillId": 37,
+                "skillName": "Leap",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 1
+            },
+            {
+                "skillId": 55,
+                "skillName": "Side Step",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 1
+            },
+            {
+                "skillId": 56,
+                "skillName": "Sneaky Git",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 1
+            },
+            {
+                "skillId": 57,
+                "skillName": "Sprint",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 1
+            },
+            {
+                "skillId": 64,
+                "skillName": "Sure Feet",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 1
+            }
+        ]
+    },
+    {
+        "skillGroupId": 2,
+        "skillGroupName": "Extraordinary",
+        "skills": [
+            {
+                "skillId": 2,
+                "skillName": "Always Hungry",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 2
+            },
+            {
+                "skillId": 3,
+                "skillName": "Animosity",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 2
+            },
+            {
+                "skillId": 4,
+                "skillName": "Ball & Chain",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 2
+            },
+            {
+                "skillId": 7,
+                "skillName": "Blood Lust",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 2
+            },
+            {
+                "skillId": 8,
+                "skillName": "Bombardier",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 2
+            },
+            {
+                "skillId": 9,
+                "skillName": "Bone-head",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 2
+            },
+            {
+                "skillId": 12,
+                "skillName": "Chainsaw",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 2
+            },
+            {
+                "skillId": 15,
+                "skillName": "Decay",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 2
+            },
+            {
+                "skillId": 23,
+                "skillName": "Fan Favorite",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 2
+            },
+            {
+                "skillId": 31,
+                "skillName": "Hypnotic Gaze",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 2
+            },
+            {
+                "skillId": 38,
+                "skillName": "Loner",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 2
+            },
+            {
+                "skillId": 42,
+                "skillName": "No Hands",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 2
+            },
+            {
+                "skillId": 43,
+                "skillName": "Nurgle's Rot",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 2
+            },
+            {
+                "skillId": 49,
+                "skillName": "Really Stupid",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 2
+            },
+            {
+                "skillId": 50,
+                "skillName": "Regeneration",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 2
+            },
+            {
+                "skillId": 51,
+                "skillName": "Right Stuff",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 2
+            },
+            {
+                "skillId": 53,
+                "skillName": "Secret Weapon",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 2
+            },
+            {
+                "skillId": 58,
+                "skillName": "Stab",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 2
+            },
+            {
+                "skillId": 59,
+                "skillName": "Stakes",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 2
+            },
+            {
+                "skillId": 63,
+                "skillName": "Stunty",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 2
+            },
+            {
+                "skillId": 67,
+                "skillName": "Take Root",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 2
+            },
+            {
+                "skillId": 70,
+                "skillName": "Throw Team-Mate",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 2
+            },
+            {
+                "skillId": 71,
+                "skillName": "Titchy",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 2
+            },
+            {
+                "skillId": 74,
+                "skillName": "Wild Animal",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 2
+            }
+        ]
+    },
+    {
+        "skillGroupId": 3,
+        "skillGroupName": "General",
+        "skills": [
+            {
+                "skillId": 6,
+                "skillName": "Block",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 3
+            },
+            {
+                "skillId": 14,
+                "skillName": "Dauntless",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 3
+            },
+            {
+                "skillId": 16,
+                "skillName": "Dirty Player",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 3
+            },
+            {
+                "skillId": 24,
+                "skillName": "Fend",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 3
+            },
+            {
+                "skillId": 26,
+                "skillName": "Frenzy",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 3
+            },
+            {
+                "skillId": 34,
+                "skillName": "Kick",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 3
+            },
+            {
+                "skillId": 35,
+                "skillName": "Kick-Off Return",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 3
+            },
+            {
+                "skillId": 45,
+                "skillName": "Pass Block",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 3
+            },
+            {
+                "skillId": 48,
+                "skillName": "Pro",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 3
+            },
+            {
+                "skillId": 54,
+                "skillName": "Shadowing",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 3
+            },
+            {
+                "skillId": 61,
+                "skillName": "Strip Ball",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 3
+            },
+            {
+                "skillId": 65,
+                "skillName": "Sure Hands",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 3
+            },
+            {
+                "skillId": 66,
+                "skillName": "Tackle",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 3
+            },
+            {
+                "skillId": 75,
+                "skillName": "Wrestle",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 3
+            }
+        ]
+    },
+    {
+        "skillGroupId": 4,
+        "skillGroupName": "Mutation",
+        "skills": [
+            {
+                "skillId": 5,
+                "skillName": "Big Hand",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 4
+            },
+            {
+                "skillId": 13,
+                "skillName": "Claw / Claws",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 4
+            },
+            {
+                "skillId": 17,
+                "skillName": "Disturbing Presence",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 4
+            },
+            {
+                "skillId": 22,
+                "skillName": "Extra Arms",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 4
+            },
+            {
+                "skillId": 25,
+                "skillName": "Foul Appearance",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 4
+            },
+            {
+                "skillId": 30,
+                "skillName": "Horns",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 4
+            },
+            {
+                "skillId": 47,
+                "skillName": "Prehensile Tail",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 4
+            },
+            {
+                "skillId": 68,
+                "skillName": "Tentacles",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 4
+            },
+            {
+                "skillId": 72,
+                "skillName": "Two Heads",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 4
+            },
+            {
+                "skillId": 73,
+                "skillName": "Very Long Legs",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 4
+            }
+        ]
+    },
+    {
+        "skillGroupId": 5,
+        "skillGroupName": "Passing",
+        "skills": [
+            {
+                "skillId": 1,
+                "skillName": "Accurate",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 5
+            },
+            {
+                "skillId": 21,
+                "skillName": "Dump-Off",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 5
+            },
+            {
+                "skillId": 29,
+                "skillName": "Hail Mary Pass",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 5
+            },
+            {
+                "skillId": 36,
+                "skillName": "Leader",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 5
+            },
+            {
+                "skillId": 41,
+                "skillName": "Nerves of Steel",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 5
+            },
+            {
+                "skillId": 44,
+                "skillName": "Pass",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 5
+            },
+            {
+                "skillId": 52,
+                "skillName": "Safe Throw",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 5
+            }
+        ]
+    },
+    {
+        "skillGroupId": 6,
+        "skillGroupName": "Strength",
+        "skills": [
+            {
+                "skillId": 10,
+                "skillName": "Break Tackle",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 6
+            },
+            {
+                "skillId": 27,
+                "skillName": "Grab",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 6
+            },
+            {
+                "skillId": 28,
+                "skillName": "Guard",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 6
+            },
+            {
+                "skillId": 32,
+                "skillName": "Juggernaut",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 6
+            },
+            {
+                "skillId": 39,
+                "skillName": "Mighty Blow",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 6
+            },
+            {
+                "skillId": 40,
+                "skillName": "Multiple Block",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 6
+            },
+            {
+                "skillId": 46,
+                "skillName": "Piling On",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 6
+            },
+            {
+                "skillId": 60,
+                "skillName": "Stand Firm",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 6
+            },
+            {
+                "skillId": 62,
+                "skillName": "Strong Arm",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 6
+            },
+            {
+                "skillId": 69,
+                "skillName": "Thick Skull",
+                "skillDescription": "Hello Ben",
+                "skillGroupId": 6
+            }
+        ]
+    }
+]
